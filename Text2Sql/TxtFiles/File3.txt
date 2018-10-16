@@ -1,0 +1,13 @@
+﻿#
+name: manmay
+surname: mohanty
+dob: 07 Mar 1983
+married: yes
+gender: male
+#
+name: marike
+surname: fourie
+dob: 30 Nov 2001
+married: no
+gender: female
+#

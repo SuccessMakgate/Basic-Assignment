@@ -1,0 +1,15 @@
+.............................................................................................
+TEXT(.txt) TO SQL(.sql) CONVERTER
+.............................................................................................
+INSTRUCTION
+1) Program will prompt to enter "Text file and Sequence No" inline with space in between
+2) File names that are valid to enter are : Flie1.txt or Flie2.txt or Flie3.txt 
+3) Then press enter ,The file will be converted to .sql  
+4) View Your File(.sql) at Project Folder in folder "SqlFiles"
+
+::To add More Data of Customers in any of .txt Files
+1) In Project folder 
+2) Open Folder "TxtFiles"
+3) Then Open one of the file to add your desired customers data
+
+..............................................................................................
